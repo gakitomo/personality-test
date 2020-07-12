@@ -9,9 +9,10 @@ $(function(){
       //チェックされているinputの数を取得
       let typeANum = $(".typeA:checked").length,
       typeBNum = $(".typeB:checked").length;
-      if(typeANum > typeBNum){
+      typeCNum = $(".typeC:checked").length;
+      if(typeANum > typeBNum && typeANum > typeCNum){
         $(".resultA").fadeIn();
-      }else if(typeANum < typeBNum){
+      }else if(typeBNum > typeANum && typeBNum > typeCNum){
         $(".resultB").fadeIn();
       }else{
         $(".resultC").fadeIn();
