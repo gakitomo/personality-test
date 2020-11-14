@@ -2,6 +2,11 @@
 内向型診断テストを作成。
 URL:https://gakitomo-test-app.herokuapp.com/
 
+https://gyazo.com/98373af66c6a8b2839ee22226994e7f1
+https://gyazo.com/73d52f10f7101b19b49fe356c2a8c094
+https://gyazo.com/204bffb95080b15a4165729f5e6a814c
+https://gyazo.com/87c66c19e6a8c4595359198b91b0298f
+
 ##WHY
 「自分は人前で話すことが苦手」「他の人との会話がすぐに途切れてしまう」といった悩みを持つ方々に、少しでも気持ちを軽くして欲しいと考えたからです。
 
